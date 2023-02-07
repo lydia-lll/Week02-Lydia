@@ -2,8 +2,8 @@
 import UIKit
 //import SwiftUI
 
-let img1 = UIImage(named: "Scream")
-let img2 = UIImage(named: "UFO")
+let img1 = UIImage(named: "Scream.jpeg")
+let img2 = UIImage(named: "UFO.png")
 
 //let img1 = Image(uiImage: #imageLiteral(resourceName: "Scream.jpeg"))
 //let img2 = Image(uiImage: #imageLiteral(resourceName: "UFO.png"))
